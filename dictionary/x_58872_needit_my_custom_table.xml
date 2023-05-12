@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe38e734afb22110cb11eb89d0930e97" label="My custom table" max_length="40" name="x_58872_needit_my_custom_table" type="collection">
+        <element label="New field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element label="New field 2" max_length="40" name="new_field_2" type="integer"/>
+    </element>
+</database>
